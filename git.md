@@ -13,7 +13,7 @@ ll - 查看文件列表
 cat dir - 查看文件最后一屏内容
 git add dir - 添加文件到暂存区
 git rm --cached dir - 从暂存区删除文件
-git commit -m "注释" dir - 提交文件到本地库
+git commit -m "提交信息" dir - 提交文件到本地库
 
 git reflog - 查看版本信息
 git log - 查看版本详情
