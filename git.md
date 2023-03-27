@@ -4,6 +4,11 @@
 ↓
 本地库
 
+vscode
+从master上创建分支 - yunis
+修改文件 - 暂存更改 - 输入备注 - 提交
+切换master - 点击...  - 分支 - 合并分支 - yunis
+
 
 git init - 初始化文件夹
 vim dir - 创建/打开 文件/夹
@@ -37,6 +42,7 @@ status为红
 git remote -v - 查看别名
 git remote add 别名 https - 创建别名
 git branch -d - 查看所有远程分支
+git branch -D - 强制删除分支
 git push origin --delete (remotes/origin/分支名) - 删除远程分支
 
 
