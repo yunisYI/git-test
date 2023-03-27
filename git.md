@@ -7,7 +7,7 @@
 vscode
 从master上创建分支 - yunis
 修改文件 - 暂存更改 - 输入备注 - 提交
-切换master - 点击...  - 分支 - 合并分支 - yunis
+切换master - 点击...  - 分支 - 合并分支 - yunis - 同步更改
 
 
 git init - 初始化文件夹
