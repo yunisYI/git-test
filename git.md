@@ -36,6 +36,9 @@ status为红
 远程库名最好和项目名相同
 git remote -v - 查看别名
 git remote add 别名 https - 创建别名
+git branch -d - 查看所有远程分支
+git push origin --delete (remotes/origin/分支名) - 删除远程分支
+
 
 推送远程库 - 需要切换到master分支
 git push 别名 master
